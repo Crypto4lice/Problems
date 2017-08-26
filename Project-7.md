@@ -26,13 +26,13 @@
 	void Postorder(treePtr root);
 	void Levelorder(treePtr root);
 
-	/*                         10
-	        /      \
-	      5        13
-	  /      \         \
-                   4        7	      15
-                           /     \       /
-                          6       9    14
+	/*       10
+	        /   \
+	       5     13
+	     /   \      \
+        4     7	    15
+            /   \   /
+           6     9 14
 
 	*/
 
